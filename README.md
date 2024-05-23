@@ -8,10 +8,9 @@
    * detailed specialtiy level and age profile analysis
 1.2. data scope
    * 2018 - 2021
-   
 1.3. Metrics required
-     * average and median waiting list
-     * current total wait list
+   * average and median waiting list
+   * current total wait list
 2. view required
    * summary page
    * detailed page for granular analysis
