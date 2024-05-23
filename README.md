@@ -14,4 +14,7 @@
 2. view required
    * summary page
    * detailed page for granular analysis
-   
+# data collection 
+data is collected from multiple files of different seprates folder namely inpatient and patient folder and merge together using power bi query tool 
+# data transformation and cleaning 
+1. d
