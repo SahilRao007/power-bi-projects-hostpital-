@@ -17,4 +17,12 @@
 # data collection 
 data is collected from multiple files of different seprates folder namely inpatient and patient folder and merge together using power bi query tool 
 # data transformation and cleaning 
-1. d
+1. checking anad correcting data types
+2. counting rows ( if all the rows are added after merging )
+3. adding columns and renaming columns
+4. data modeling and mappping the tables
+# visualization 
+1. creating a dashboard called summary page and a second page called detailed page
+2. customizing the dashboard ( adding buttons , text box etc )
+# interactivity and navigation 
+
